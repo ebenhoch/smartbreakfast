@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<!-- saved from url=(0074)file:///E:/Blogposts/IG%20Smart%20City%20Referat/ebenhoch-smartcity.html#1 -->
+<html class="remark-container">
+
+ <head>
+    <title>Ebenhoch: Systematische Digitalisierung des EVU-Geschäfts</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif);
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+	  @import url(https://fonts.googleapis.com/css?family=Open+Sans);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body {
+        font-family: 'Droid Serif';
+      }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: 400;
+        margin-bottom: 0.4em;
+      }
+      .remark-slide-content h1 { font-size: 4em; }
+      .remark-slide-content h2 { font-size: 3em; }
+      .remark-slide-content h3 { font-size: 2em; }
+	  .remark-slide-content p { font-size: 1em; }
+      .footnote {
+	    font-size: small;
+        position: absolute;
+		left: 2em;
+        bottom: 1em;
+	  }
+	  .bildunter {
+	    font-size: small;
+		vertical-align:top;
+	  }
+	  .logo {
+	    position: absolute;
+		right: 1em;
+        top: 0.1em;
+		width: 200px;
+      }
+	  p {
+	  font-family: 'Open Sans';
+	  -webkit-margin-before: 0.2em;
+      -webkit-margin-after: 0.4em;
+     }
+      li {font-family: 'Open Sans';}
+	  li p { line-height: 1,25em; font-family: 'Open Sans';}
+      .red { color: #fa0000; }
+      .large { font-size: 3em; }
+      a, a > code {
+        color: rgb(249, 38, 114);
+        text-decoration: none;
+      }
+      code {
+        background: #e7e8e2;
+        border-radius: 5px;
+      }
+      .remark-code, .remark-inline-code { 
+	    font-family: 'Ubuntu Mono'; 
+		font-size: 1.2em;
+	  }
+      .remark-code-line-highlighted     { background-color: #373832; }
+      #slideshow .slide .content code {
+        font-size: 1.2em;
+      }
+      #slideshow .slide .content pre code {
+        font-size: 1.4em;
+        padding: 20px;
+      }
+      .inverse {
+        background: #272822;
+        color: #777872;
+        text-shadow: 0 0 20px #333;
+      }
+      .inverse h1, .inverse h2 {
+        color: #f3f3f3;
+        line-height: 0.8em;
+      }
+
+      /* Two-column layout */
+      .left-column {
+        width: 45%;
+        height: 92%;
+        float: left;
+		padding-top: 0.4em;
+      }
+      .right-column {
+        width: 55%;
+        float: right;
+        padding-top: 0.4em;
+      }
+	  .remark-slide-content { background-size: 100%; }
+    </style>
+  </head>
+  <body class="remark-container">
+    <textarea id="source" style="display: none;">
+class: center, middle, inverse
+
+background-image: url(effectas-title-small.png)
+
+# Systematische Digitalisierung des EVU-Geschäfts
+## Strategische-Entwicklung und Risikomanagement 
+
+<font color="darkgray">
+Dr. Peter Ebenhoch &mdash; effectas GmbH
+</font>
+
+     2019-03-07
+     3. effectas smart breakfast
+     St. Gallen, Hotel Einstein
+
+---
+
+class: middle
+
+background-image: url(effectas-background-high.png)
+.logo[![Logo](effectas-logo.png)]
+
+
+# Systematische Digitalisierung des EVU-Geschäfts
+### Inhalt
+
+1. Städte als Infrastrukturen
+3. Einflussfaktoren der Digitalisierung
+2. Digitalisierung von Infrastrukturen
+4. Digitalisierung mit System
+5. Systematische Digitalisierung am Beispiel der Elektromobilität
+
+.footnote[Referenz: Dr. Peter Ebenhoch PMP®| peter.ebenhoch@effectas.com | © effectas GmbH ]
+
+---
+
+class: center, middle, inverse
+
+#1. Städte als Infrastrukturen für Menschen
+
+---
+
+background-image: url(effectas-background-high.png)
+.logo[![Logo](effectas-logo-small.png)]
+.footnote[Referenzen: https://de.wikipedia.org/wiki/Geschichte_der_Stadt_St._Gallen, https://www.sgsw.ch/home/ueber-uns.html]
+
+## Städte als Infrastrukturen für Menschen
+
+
+.left-column[
+
+_Gallus, 612 n. Christus:_
+
+![Wappen](StGallen-Wappen1.png)
+
+_«hic habitabo quoniam elegi eam»_
+
+]
+
+--
+
+.right-column[
+
+- 612 Hl. Gallus
+
+- 1471 Erste hölzerne Wasserleitung
+
+- 1856 St. Galler Aktiengesellschaft für Gasbeleuchtung
+
+- 1897 Gemeindebeschluss zum Bau eines Elektrizitätswerkes
+
+- 1983 Volksabstimmung Ausbau der Fernwärme: 75% Ja
+
+- 1995 Glasfaser zur Steuerung 
+
+- 2009 Volksabstimmung zum Bau eines Glasfasernetzes: 82% Ja
+
+- 2015 Pilot und Einführung LoRaWAN
+]
+  
+
+
+---
+class: inverse
+
+background-image: url(effectas-background-high.png)
+.logo[![Logo](effectas-logo-small-white.png)]
+
+# Städtische Infrastrukturen
+
+__Mit städtischen Infrastrukturen gibt es ausreichend Erfahrung ...__
+
+.left-column[
+
+![Wasser](01_wasser.png)
+Wasser
+
+![Wärme](03_waerme.png)
+Wärme
+
+]
+
+.right-column[
+
+![Elektrizitaet](02_elektrizitaet.png)
+Elektrizität
+
+![Glasfaser](04_glas.png)
+Glasfaser
+
+
+]
+
+
+
+
+.footnote[Referenzen: Geschäftsbericht SGSW, https://www.rwt.ch]
+
+
+
+---
+
+class: center
+
+.logo[![Logo](effectas-logo.png)]
+
+## Neue Einflussfaktoren
+  
+![Digitalisierung Impact](DigitalisierungImpact.png)
+ 
+
+.footnote[Referenzen: EV-Studie "Geschäftsmodell 2020" / effectas 2018]
+
+
+---
+
+## Neue Optionen
+
+.right-column[
+![Wertschöpfungsoptionen](Wertschöpfungsoptionen.png)
+]
+.footnote[Referenz: BDEW Digitalisierung in der Energiewirtschaft, 2016 / effectas 2019]
+
+---
+
+.logo[![Logo](effectas-logo.png)]
+
+
+# Was tun?
+
+
+
+.left-column[
+
+![](herausforderungen.png)
+
+→ 
+
+]
+
+.right-column[
+
+Aber wo beginnen?
+
+]
+
+---
+
+class: inverse, middle, center
+
+# Systematische Digitalisierung
+
+---
+
+Drei Ebenen:
+
+1. Physische Infrastruktur
+2. Steuerungsebene
+3. Digitalisierungsebene
+
+
+---
+
+# Handlungsfelder
+
+![](handlungsfelder.png)
+
+---
+
+# Instrumente
+
+![](instrumente.png)
+
+
+---
+.logo[![Logo](effectas-logo.png)]
+### Takeaways ─ Systematische Digitalisierung 
+
+
+
+
+
+
+---
+.logo[![Logo](effectas-logo.png)]
+# 
+
+<font color="orange">peter.ebenhoch@effectas.com</font><br/>
+https://ch.linkedin.com/in/ebenhoch/de<br/>
+For a smart talk.
+
+![Abschluss](effectas-schlussfolie-flach.png)
+
+Dr. Peter Ebenhoch PMP</br>
+CAS Strategic Management HSG</br>
+Certified Risk Manager ISO 27005<br/>
+
+Partner </br>
+effectas GmbH</br>
+
+ </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
+
+ 
+ 
